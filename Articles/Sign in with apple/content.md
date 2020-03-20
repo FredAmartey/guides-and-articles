@@ -124,6 +124,6 @@ Check out the [complete code](https://github.com/karanpratapsingh/guides-and-art
 I hope all the steps worked and you gained an understanding of how to integrate Apple sign in with React Native. <br />
 If you wish to see this live in action check out [Proximity](https://github.com/karanpratapsingh/Proximity) where I recently implemented Apple Sign in.
 
-If you face any issues during the integration, feel free to leave a comment or reach out to me via [twitter](https://twitter.com/karan_6864).
+<i>Did you face any issues during the integration? feel free to leave a comment or reach out to me via [twitter](https://twitter.com/karan_6864)</i>
 
 Happy Coding! 🎉
