@@ -1,5 +1,5 @@
 ![cover](./assets/cover.png)
-
+## An in-depth guide to Sign in with Apple using React Native
 Greetings, React Native Community! 
 <br /> In this article, I will be breaking down the step-by-step process of integrating Apple Sign-in using React Native.
 
