@@ -4,12 +4,12 @@ This repository contains all the code snippets, assets for all my articles and l
 
 #### Articles
 
-- [An in-depth guide to Sign in with Apple using React Native](./Articles/An\ in-depth\ guide\ to\ Sign\ in\ with\ Apple\ using\ React\ Native/content.md)
-- [Cleaning up imports using module resolver in React Native](./Articles/Cleaning\ up\ imports\ using\ module\ resolver\ in\ React\ Native/content.md)
+- [An in-depth guide to Sign in with Apple using React Native](./Articles/An&#32;in-depth&#32;guide&#32;to&#32;Sign&#32;in&#32;with&#32;Apple&#32;using&#32;React&#32;Native/content.md)
+- [Cleaning up imports using module resolver in React Native](./Articles/Cleaning&#32;up&#32;imports&#32;using&#32;module&#32;resolver&#32;in&#32;React&#32;Native/content.md)
 
 #### Guides
 
-- [Learn JavaScript](./Guides/Learn\ JavaScript.md)
-- [Learn React Native](./Guides/Learn\ React\ Native.md)
-- [Learn Python](./Guides/Learn\ Python.md)
+- [Learn JavaScript](./Guides/Learn&#32;JavaScript.md)
+- [Learn React Native](./Guides/Learn&#32;React&#32;Native.md)
+- [Learn Python](./Guides/Learn&#32;Python.md)
 
