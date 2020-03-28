@@ -126,7 +126,7 @@ Well, this was all about setting up CI/CD with App Center. However App Center ha
 
 Hopefully, now you have a better understanding of CI/CD and were able to setup your build with App Center.
 
-<i>If you liked this article, or faced any issues, feel free to contact me via [Twitter](https://twitter.com/karan_6864) or [Email](mailto:karan.pratapsingh686@gmail.com) 🚀</i>
+<i>If you liked this article, or faced any issues, feel free to reach out via [Twitter](https://twitter.com/karan_6864) or [Email](mailto:karan.pratapsingh686@gmail.com) 🚀</i>
 
 Happy Coding :tada:
 
