@@ -9,6 +9,8 @@ This repository contains all the code snippets, assets for all my articles and l
 
 - [Continuous Integration and Deployment with React Native using App Center](./Articles/Continuous&#32;Integration&#32;and&#32;Deployment&#32;with&#32;React&#32;Native&#32;using&#32;App&#32;Center/content.md)
 
+- [Quick guide for updating package name in React Native](./Articles/Quick&#32;guide&#32;for&#32;updating&#32;package&#32;name&#32;in&#32;React&#32;Native/content.md)
+
 #### Guides
 
 - [Learn JavaScript](./Guides/Learn&#32;JavaScript.md)
