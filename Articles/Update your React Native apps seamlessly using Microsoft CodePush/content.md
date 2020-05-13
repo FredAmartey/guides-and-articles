@@ -136,11 +136,9 @@ In this section, we'll see how to integrate CodePush plugin with our native iOS 
 
 - Optional: Go to `ios/<Your-Project>/Info.plist` and add a new key as `CodePushDeploymentKey` of type `string` and add your iOS key.
 
-```
-...
+```xml
 <key>CodePushDeploymentKey</key>
 <string>DeploymentKey</string>
-...
 ```
 
 <i>Note: you can checkout the official CodePush ios docs [here](https://github.com/microsoft/react-native-code-push/blob/master/docs/setup-ios.md) for more in depth look.</i>
@@ -183,13 +181,13 @@ npm start --reset-cache
 
 As our app is now ready to use CodePush, let's now look into how we'll be releasing updates. For this we'll need [appcenter-cli](https://github.com/microsoft/appcenter-cli)
 
-```
+```bash
 yarn global add appcenter-cli
 ```
 
 Or if you prefer npm then,
 
-```
+```bash
 npm i -g appcenter-cli
 ```
 
@@ -197,7 +195,7 @@ npm i -g appcenter-cli
 
 - Now, we have to login with the cli. We can do that simply using the command below and authenticating with our AppCenter account.
 
-```
+```bash
 appcenter login
 ```
 
@@ -207,7 +205,7 @@ appcenter login
 appcenter codepush release-react -a <user>/<app> -d <environment>
 ```
 For Example:
-```
+```bash
 appcenter codepush release-react -a Karan-Pratap-Singh/CodePushDemo -d Staging
 ```
 
@@ -217,9 +215,8 @@ appcenter codepush release-react -a Karan-Pratap-Singh/CodePushDemo -d Staging
 
 Typing these might get tedious, so what I like to do is add these scripts to my package.json like:
 
-```
-scripts: {
-  ...
+```json
+"scripts": {
   "codepush:ios": "appcenter codepush release-react -a Karan-Pratap-Singh/CodePushDemo -d Staging",
   "codepush:android": "appcenter codepush release-react -a Karan-Pratap-Singh/CodePushDemo-Android -d Staging"
 }
