@@ -11,6 +11,8 @@ This repository contains all the code snippets, assets for all my articles and l
 
 - [Quick guide for updating package name in React Native](./Articles/Quick&#32;guide&#32;for&#32;updating&#32;package&#32;name&#32;in&#32;React&#32;Native/content.md)
 
+- [Update your React Native apps seamlessly using Microsoft's CodePush](./Articles/Update&#32;your&#32;React&#32;Native&#32;apps&#32;seamlessly&#32;using&#32;Microsoft&#32;CodePush/content.md)
+
 #### Guides
 
 - [Learn JavaScript](./Guides/Learn&#32;JavaScript.md)
